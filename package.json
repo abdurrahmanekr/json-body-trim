@@ -13,5 +13,13 @@
     "trim"
   ],
   "author": "Avare Kodcu <abdurrahmaneker58@gmail.com>",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdurrahmanekr/json-body-trim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abdurrahmanekr/json-body-trim/issues"
+  },
+  "homepage": "https://github.com/abdurrahmanekr/json-body-trim"
 }
